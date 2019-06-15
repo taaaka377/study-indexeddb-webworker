@@ -17,11 +17,11 @@ const str = 'hoge';
 
 if (10 === count) {
   count = 2;
-  // console.log(str);
+  console.log(str);
 }
 
 const name = 'abc';
 
-// console.log(greet(name));
+console.log(greet(name));
 
 export default greet;

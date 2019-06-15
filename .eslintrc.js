@@ -28,7 +28,7 @@ module.exports = {
     ],
     // eslint
     eqeqeq: 'error',
-    'no-console': 'error',
+    'no-console': 'off',
 
     // eslint-typescript
     '@typescript-eslint/no-magic-numbers': 'warn',
